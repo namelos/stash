@@ -1,0 +1,22 @@
+{
+  "name": "ng-playground",
+  "version": "1.0.0",
+  "description": "learning angular...",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namelos/ng-playground.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "namelos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namelos/ng-playground/issues"
+  },
+  "homepage": "https://github.com/namelos/ng-playground#readme"
+}
